@@ -12,7 +12,8 @@
     "ExtensionData": null,
     "K": null,
     "KeyOps": [
-      "sign"
+      "sign",
+      "verify"
     ],
     "Kid": "05774eeb565944eea39f693280618f7b",
     "Kty": "RSA",
